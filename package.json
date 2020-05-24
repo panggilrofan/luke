@@ -1,6 +1,6 @@
 {
   "name": "luke",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "A npx business card for Luke Storry (@lukestorry)",
   "main": "card.js",
   "bin": {
@@ -12,11 +12,11 @@
     "url": "https://github.com/lukestorry/card.git"
   },
   "keywords": [
-    "card",
-    "npx card",
-    "business card",
     "luke",
     "storry",
+    "business card",
+    "npx card",
+    "card",
     "luke storry"
   ],
   "author": "Luke Storry <luke@lukestorry.co.uk>",
