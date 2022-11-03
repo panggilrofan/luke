@@ -6,7 +6,7 @@ const boxen = require('boxen')
 const boxenSettings = { borderStyle: 'double', padding: 1, margin: 1, backgroundColor: 'black' }
 
 const output = chalk.bold.white('                 Luke Storry ') +
-  '\n' + chalk.white('       Bristol-based Software Developer ')
+  '\n' + chalk.white('       Narrowboat-based Software Developer ')
   + '\n' + '\n' + chalk.cyan('               https://lkst.uk')
   + '\n'
   + '\n' + chalk.white('     GitHub: ') + chalk.gray('https://github.com/') + chalk.green('lukestorry')
